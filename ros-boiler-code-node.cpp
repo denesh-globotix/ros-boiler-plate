@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2022, den.
+ * Copyright (c) 2022.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -26,7 +26,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  *
- * Author: Den
+ * Author: denesh.siva@globotix.sg
  */
 
 #include <ros-cpp/ros-cpp.h>
