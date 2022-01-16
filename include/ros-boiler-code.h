@@ -48,6 +48,9 @@ namespace ros-cpp
          * @brief Function of the same name as the class immediately becomes the constructor
          */
         rosCpp();
+    
+      private:
+        int some_variable_{6};
   }
 }
 #endif
