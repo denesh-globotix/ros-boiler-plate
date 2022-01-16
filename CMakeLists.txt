@@ -25,5 +25,5 @@ include_directories(
   ${catkin_INCLUDE_DIRS}
 )
 
-add_executable(ros-cpp src/ros-cpp.cpp src/ros-cpp.cpp)
+add_executable(ros-cpp src/ros-cpp-node.cpp src/ros-cpp.cpp)
 target_link_libraries(ros-cpp ${catkin_LIBRARIES})
