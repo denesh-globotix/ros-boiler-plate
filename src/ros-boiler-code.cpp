@@ -34,11 +34,11 @@
 *
 * Author: denesh.siva@globotix.sg
 *********************************************************************/
-#include <ros-boiler-code/ros-boiler-code.h>
+#include <ros-cpp/ros-cpp.h>
 
-namespace ros_cpp {
+namespace ros-cpp {
 
-  RosCpp::RosCpp() : 
+  rosCpp::rosCpp() : 
   some_variable_(0) 
   {
       ROS_INFO("The variable is: %d", some_variable_);
